@@ -105,7 +105,8 @@ In Hella Progress
 |C     |Jesse Ceniceros|
 |D     |Erick Flores|
 |E     |Celeste Moore|
+</br>
+</br>
 
-
-** Link
-[Site](https://aggretsukos-bar.herokuapp.com/)
+## Link
+*[Site](https://aggretsukos-bar.herokuapp.com/)
